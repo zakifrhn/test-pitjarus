@@ -48,6 +48,10 @@ FEATURE REQUESTS.
 This repository is a "distribution" one, built by our release preparation script.
 Problems with it can be raised on our forum, or as issues in the main repository.
 
+## Related
+
+[Backend](https://github.com/Ravictation/tickitzgolang/tree/be)
+
 ## Server Requirements
 
 PHP version 7.4 or higher is required, with the following extensions installed:
